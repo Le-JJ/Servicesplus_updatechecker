@@ -5,7 +5,7 @@
     "v2.0b\n",
     "- Modifications d'interface mineures",
     "- Suppression d'alertes redondantes",
-    "- Le bouton \"Vérifier les mises à jour\" est bloqué 5 secondes après l'appui pour éviter le spam de requêtes",
+    "- Le bouton \"Vérifier les mises à jour\" est bloqué pendant 5 secondes après l'appui pour éviter le spam de requêtes",
     "- L'historique a été modifié pour éviter les clics simultanés et l'ouverture de plusieurs fenêtres en même temps\n",
     "Profitez bien de la dernière version de votre application préférée !"
   ]
