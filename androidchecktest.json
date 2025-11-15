@@ -1,13 +1,13 @@
 {
-  "version": "2.0c",
+  "version": "2.0b",
   "url": "https://drive.google.com/file/d/153r0eMFp-rPsWDd7VELmpjSGtEqMoy4n/",
   "changelog": [
-    "v2.0b\n\n",
+    "v2.0b\n",
     "- Modifications d'interface mineures\n",
     "- Suppression d'alertes redondantes\n",
     "- Le bouton \"Vérifier les mises à jour\" est bloqué pendant 5 secondes après l'appui pour éviter les requêtes répétées\n",
     "- L'historique a été modifié pour éviter les clics simultanés et l'ouverture de plusieurs fenêtres en même temps\n",
-    "- Corrige un problème où les heures de début et de fin de service saisies n'étaient pas restaurées après avoir mis l'application en arrière-plan\n\n",
+    "- Corrige un problème où les heures de début et de fin de service saisies n'étaient pas restaurées après avoir mis l'application en arrière-plan\n",
     "Profitez bien de la dernière version de votre application préférée !"
   ]
 }
