@@ -1,10 +1,15 @@
 {
-  "version": "2.0b",
+  "version": "2.0c",
   "url": "https://drive.google.com/file/d/153r0eMFp-rPsWDd7VELmpjSGtEqMoy4n/",
   "changelog": [
+    "v2.0c\n",
+    "- Suppression d'alertes redondantes\n",
+    "- Minutes ↔ Euros :",
+    "  - Calcul automatique lors de la saisie et suppression du bouton \"Calculer\"",
+    "  - Nouveau choix de saisie automatique pour le mode Minutes en Euros : Minutes depuis le début du mois ou de l'année",
+    "  - Suppression du bouton \"Effacer\" pour le mode Compensation de grève\n",
     "v2.0b\n",
     "- Modifications d'interface mineures\n",
-    "- Suppression d'alertes redondantes\n",
     "- Le bouton \"Vérifier les mises à jour\" est bloqué pendant 5 secondes après l'appui pour éviter les requêtes répétées\n",
     "- L'historique a été modifié pour éviter les clics simultanés et l'ouverture de plusieurs fenêtres en même temps\n",
     "- Corrige un problème où les heures de début et de fin de service saisies n'étaient pas restaurées après avoir mis l'application en arrière-plan\n",
