@@ -1,4 +1,4 @@
 {
   "version": 1,
-  "date": null
+  "date": null  // null ou "YYYY-MM-DD"
 }
