@@ -1,4 +1,5 @@
 {
   "version": 1,
-  "date": null  // null ou "YYYY-MM-DD"
+  "date": null,
+  "_comment": "null ou YYYY-MM-DD"
 }
