@@ -4,7 +4,8 @@
   "changelog": [
     "v2.1",
     "• Nouvel onglet : Temps de trajet",
-    "• Possibilité de sauvegarder, restaurer ou transférer les données sur un autre appareil",
+    "• Possibilité de sauvegarder et restaurer les données et réglages",
+    "• Possibilité de transférer directement les données et réglages entre deux appareils",
     "• Les primes pour la journée sont désormais affichées lors du calcul du retard",
     "• Le calcul du montant net est affiné selon le type de contrat",
     "• Nouveaux documents dans le Portail Pro",
