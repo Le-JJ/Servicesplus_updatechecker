@@ -1,8 +1,16 @@
 {
-  "version": "2.0.1",
-  "url": "https://lc.cx/wCHP0P",
+  "version": "2.1.0",
+  "url": "https://taplink.cc/servicesplus",
   "changelog": [
-    "v2.0.1",
-    "- Correction de bugs"
+    "v2.1",
+    "- Nouvel onglet : <b>Temps de trajet</b>",
+    "- Possibilité de <b>sauvegarder, restaurer ou transférer</b> les données sur un autre appareil",
+    "- Les primes pour la journée sont désormais affichées lors du calcul du retard",
+    "- Le calcul du montant net est affiné selon le type de contrat",
+    "- Nouveaux documents dans le <b>Portail Pro</b>",
+    "- Présence d'un indicateur lorsqu'un commentaire est ajouté dans le <b>Calendrier des repos</b>",
+    "- Amélioration de l'affichage de certains textes (petits écrans ou police agrandie)",
+    "- Correction de bugs et autres améliorations diverses\n",
+    "Profitez bien de la nouvelle mise à jour de votre application préférée !"
   ]
 }
