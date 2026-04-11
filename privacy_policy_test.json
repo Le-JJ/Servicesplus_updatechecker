@@ -118,7 +118,7 @@ Pour le fonctionnement des notifications, l’application peut enregistrer sur F
 
 Ces données sont utilisées uniquement pour permettre la gestion technique des notifications et de leur routage.
 
-D. GitHub / raw.githubusercontent.com
+D. GitHub
 
 L’application peut interroger des fichiers distants publiés en ligne, notamment pour :
 	•	vérifier les mises à jour de l’application
