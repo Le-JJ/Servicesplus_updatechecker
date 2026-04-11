@@ -1,0 +1,189 @@
+{
+  "title": "Politique de Confidentialité de Services+",
+  "last_updated": "11 avril 2026",
+  "content": "L’application Services+ (“nous”, “notre” ou “l’application”) a été développée pour vous aider notamment à calculer votre temps compensateur (TC). D’autres fonctionnalités y sont également disponibles et pourront être ajoutées, modifiées ou supprimées au fil du temps.
+Nous prenons votre vie privée très au sérieux. Cette politique de confidentialité explique quelles données sont utilisées, comment elles le sont, où elles sont stockées et, le cas échéant, avec quels services tiers elles interagissent.
+
+	1.	Données collectées et utilisation
+
+L’application Services+ est conçue pour respecter au maximum la confidentialité de vos données personnelles.
+
+A. Données saisies ou générées par l’utilisateur
+
+Les informations suivantes peuvent être saisies, générées ou enregistrées par vous dans l’application :
+	•	salaire brut mensuel et nombre d’heures mensuelles
+	•	type de contrat
+	•	catégorie sélectionnée (MTS/SEM) et ligne sélectionnée
+	•	heures de début et de fin de service
+	•	services enregistrés
+	•	retards, TS, TC, repos écourtés et montants simulés ou calculés
+	•	historiques de saisie
+	•	données liées au calendrier des repos
+	•	commentaires éventuels ajoutés dans certaines vues
+	•	favoris, notamment pour certaines fonctions comme les trajets
+	•	préférences d’affichage et réglages généraux de l’application
+
+Utilisation de ces données
+Ces données servent uniquement au fonctionnement de l’application, à l’affichage de vos résultats, à vos simulations, à l’historique, aux widgets, aux favoris, aux sauvegardes et restaurations et, si vous l’utilisez, au transfert de vos données entre appareils.
+
+Localisation des données
+Ces données sont, par défaut, traitées et stockées localement sur votre appareil. Elles ne sont pas envoyées à des fins commerciales ou analytiques. Certaines données techniques limitées peuvent toutefois transiter via les services tiers mentionnés dans la présente politique lorsque cela est nécessaire au fonctionnement de certaines fonctions de l’application.
+
+B. Données techniques liées aux notifications
+
+Pour permettre l’envoi de notifications, l’application utilise :
+	•	un identifiant utilisateur anonyme fourni par Firebase Authentication
+	•	un token FCM (Firebase Cloud Messaging)
+	•	selon les cas, des informations techniques associées à la configuration de l’application, comme votre catégorie ou votre ligne, afin d’adapter certains envois de notifications par thème
+
+Ces données ne servent qu’au bon fonctionnement des notifications et des mécanismes associés.
+
+C. Données liées aux sauvegardes et restaurations
+
+Si vous utilisez la fonction de sauvegarde/restauration, l’application peut créer un fichier de sauvegarde contenant notamment :
+	•	l’historique
+	•	les services enregistrés
+	•	le calendrier des repos
+	•	les réglages
+	•	les favoris
+	•	certaines métadonnées techniques nécessaires à la restauration, comme la version du format de sauvegarde, la date de création de la sauvegarde, la version de l’application, la catégorie sélectionnée, la ligne sélectionnée, le mode de thème et certaines bornes temporelles de l’historique
+
+La sauvegarde exporte l’ensemble des données prévues par le format de sauvegarde de l’application au moment de sa création. Les choix de conservation ou de restauration s’effectuent ensuite au moment de l’import.
+
+Important : ces sauvegardes sont créées à votre demande et exportées vers l’emplacement que vous choisissez. Elles ne sont pas envoyées automatiquement à un serveur central de l’éditeur.
+
+D. Données liées au transfert entre appareils
+
+Si vous utilisez la fonction de transfert direct entre appareils, l’application peut transmettre, d’un appareil à l’autre, vos données de sauvegarde afin de restaurer votre configuration et vos données sur un autre appareil.
+
+Ce transfert est déclenché manuellement par vous, initié uniquement entre les appareils que vous choisissez de connecter et ne constitue pas un envoi automatique vers un serveur central de l’éditeur. Il repose sur les autorisations techniques éventuellement demandées par le système pour permettre la détection et la connexion entre appareils.
+
+	2.	Permissions demandées
+
+L’application peut demander certaines permissions pour fonctionner correctement.
+
+A. Notifications
+
+Notifications (POST_NOTIFICATIONS)
+Cette permission permet d’afficher des notifications générales, liées à votre catégorie ou à votre ligne, des informations de mise à jour, ainsi que certaines notifications utiles au fonctionnement de l’application et de ses widgets.
+
+B. Accès Internet
+
+Accès Internet
+L’accès Internet peut être utilisé notamment pour :
+	•	vérifier l’existence d’une mise à jour de l’application
+	•	récupérer certaines informations liées au calendrier de la paie
+	•	communiquer avec les services Firebase nécessaires aux notifications
+	•	ouvrir certains liens externes ou documents en ligne
+	•	consulter certains documents PDF ou contenus hébergés en ligne
+
+L’application reste largement utilisable sans Internet, mais certaines fonctions ne seront alors pas disponibles, ne seront pas à jour ou fonctionneront de manière limitée.
+
+C. Permissions nécessaires au transfert entre appareils
+
+Si vous utilisez la fonction de transfert direct entre appareils, l’application peut demander certaines autorisations nécessaires à la découverte d’appareils proches, à l’établissement d’une connexion et au transfert des données.
+
+Selon la version d’Android et les services utilisés par l’appareil, cela peut inclure notamment :
+	•	des autorisations liées à la localisation
+	•	des autorisations liées aux appareils à proximité
+	•	d’autres autorisations techniques requises par le système ou les services Google utilisés pour permettre la détection, la connexion et l’échange entre appareils
+
+Ces autorisations ne sont utilisées que pour permettre le transfert lorsque vous le lancez vous-même. Elles ne sont pas utilisées pour suivre votre position ou accéder à votre localisation à des fins commerciales ou publicitaires.
+
+	3.	Services tiers et contenus externes
+
+A. Firebase Authentication (anonyme)
+
+L’application utilise Firebase Authentication en mode anonyme pour certaines fonctions liées aux notifications.
+Cela signifie que vous n’avez pas besoin de créer un compte avec email ou mot de passe. Un identifiant technique anonyme peut être attribué à votre installation.
+
+Aucune donnée personnelle telle que votre nom ou votre adresse email n’est requise pour cette authentification anonyme.
+
+B. Firebase Cloud Messaging (FCM)
+
+FCM est utilisé pour l’envoi de notifications push, par exemple :
+	•	informations générales
+	•	informations liées à votre catégorie ou votre ligne
+	•	informations de mise à jour
+	•	certaines notifications utiles au fonctionnement de l’application ou de ses widgets
+
+Le token FCM de votre appareil est utilisé pour permettre cet envoi.
+
+C. Firebase Firestore
+
+Pour le fonctionnement des notifications, l’application peut enregistrer sur Firebase/Firestore certaines données techniques limitées, notamment :
+	•	le token FCM
+	•	la date et l’heure de mise à jour du token
+	•	l’identifiant anonyme Firebase associé à l’installation
+
+Ces données sont utilisées uniquement pour permettre la gestion technique des notifications et de leur routage.
+
+D. GitHub
+
+L’application peut interroger des fichiers distants publiés en ligne, notamment pour :
+	•	vérifier les mises à jour de l’application
+	•	récupérer certaines informations liées au calendrier de la paie
+	•	récupérer la présente politique de confidentialité lorsqu’elle est consultée depuis l’application
+
+Dans ce cadre, votre appareil contacte directement les serveurs hébergeant ces fichiers afin d’obtenir les données nécessaires.
+
+E. Liens externes, documents et PDF en ligne
+
+L’application propose aussi des liens vers des ressources externes, y compris certains documents ou PDF accessibles en ligne.
+Lorsque vous ouvrez l’un de ces liens, vous accédez à un contenu hébergé par un service tiers. Le traitement de vos données par ce service tiers relève alors également de sa propre politique de confidentialité.
+
+	4.	Sécurité des données
+
+Nous mettons en œuvre des mesures de sécurité standard pour protéger les informations traitées par l’application.
+	•	les données locales restent sur votre appareil, sauf action explicite de votre part comme une sauvegarde exportée, une restauration, un transfert entre appareils, l’ouverture d’un lien externe ou l’utilisation des services tiers mentionnés
+	•	les communications réseau utilisées par l’application reposent sur des connexions sécurisées lorsqu’elles sont disponibles via les services utilisés
+
+Cependant, aucune méthode de transmission sur Internet ni aucun stockage électronique ne peut être garanti comme totalement sûr à 100 %.
+
+	5.	Partage des données
+
+Nous ne vendons, n’échangeons ni ne louons vos données personnelles à des tiers.
+
+Les données de calcul, d’historique, de services, de favoris, de calendrier, de réglages et de simulation restent stockées localement sur votre appareil, sauf dans les cas suivants :
+	•	utilisation des services Firebase nécessaires aux notifications
+	•	export manuel d’une sauvegarde par vous
+	•	restauration manuelle d’une sauvegarde par vous
+	•	transfert manuel entre appareils déclenché par vous
+	•	ouverture volontaire d’un lien ou document externe
+
+En dehors de ces cas, l’application n’a pas pour objectif de transmettre vos données d’usage personnel à des tiers.
+
+	6.	Conservation et suppression des données
+
+A. Données stockées localement
+
+Puisque l’essentiel de vos données est stocké localement sur votre appareil :
+	•	vous pouvez supprimer ces données en effaçant les données de l’application depuis les réglages Android
+	•	désinstaller l’application supprimera en principe les données locales associées à l’application sur votre appareil
+
+B. Sauvegardes exportées
+
+Si vous avez exporté un fichier de sauvegarde, ce fichier peut rester présent dans l’emplacement que vous avez choisi.
+Sa suppression relève de votre contrôle : vous pouvez le supprimer manuellement depuis votre appareil, votre gestionnaire de fichiers ou tout service de stockage dans lequel vous l’auriez conservé.
+
+La désinstallation de l’application ne supprime pas automatiquement les sauvegardes exportées en dehors de l’espace de stockage interne de l’application.
+
+C. Données liées aux notifications
+
+Le token FCM et les données techniques associées peuvent devenir inactifs, être remplacés ou être supprimés selon le cycle de vie normal de l’application, la réinstallation, le renouvellement du token ou la désinstallation.
+
+	7.	Absence d’exploitation commerciale des données
+
+Les données que vous saisissez dans l’application ne sont pas utilisées pour établir un profil commercial, ni revendues, ni exploitées à des fins publicitaires par l’éditeur de l’application.
+
+	8.	Mises à jour de cette politique
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre afin de la maintenir cohérente avec l’évolution de l’application.
+Nous vous conseillons de consulter cette page régulièrement.
+
+	9.	Nous contacter
+
+Si vous avez des questions concernant cette politique de confidentialité ou les pratiques de cette application, vous pouvez nous contacter à :
+
+i.jerome.jc@gmail.com"
+}
