@@ -123,6 +123,7 @@ D. GitHub / raw.githubusercontent.com
 L’application peut interroger des fichiers distants publiés en ligne, notamment pour :
 	•	vérifier les mises à jour de l’application
 	•	récupérer certaines informations liées au calendrier de la paie
+	•	récupérer la présente politique de confidentialité lorsqu’elle est consultée depuis l’application
 
 Dans ce cadre, votre appareil contacte directement les serveurs hébergeant ces fichiers afin d’obtenir les données nécessaires.
 
