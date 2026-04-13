@@ -1,8 +1,20 @@
 {
-  "version": "2.0.1",
-  "url": "https://lc.cx/wCHP0P",
+  "version": "2.1",
+  "url": "https://d.apkpure.com/b/APK/com.example.calcults_tcretard?versionCode=5",
   "changelog": [
-    "v2.0.1",
-    "- Correction de bugs"
+    "v2.1",
+    "• Nouvel onglet : Temps de trajet",
+    "• Possibilité de sauvegarder et restaurer les données et réglages",
+    "• Possibilité de transférer directement les données et réglages entre deux appareils",
+    "• Les primes pour la journée sont désormais affichées lors du calcul du retard (même sans retard)",
+    "• Prise en compte des NAO 2026 pour le calcul des primes du week-end",
+    "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)",
+    "• Nouveaux documents dans le Portail Pro",
+    "• Présence d'un indicateur lorsqu'un commentaire est ajouté dans le Calendrier des repos",
+    "• Amélioration de l'affichage de certains textes (petits écrans et/ou police agrandie)",
+    "• L'appli prend moins de place sur votre téléphone",
+    "• Correction de bugs et améliorations diverses\n",
+    "N'hésitez pas à écrire un message dans l'onglet Contact en cas de bug ou pour toute suggestion.\n",
+    "Profitez bien de la dernière version de votre application préférée !"
   ]
 }
