@@ -1,7 +1,12 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "url": "https://d.apkpure.com/b/APK/com.example.calcults_tcretard?version=latest",
   "changelog": [
+    "v2.2",
+    "• Vous pouvez désormais conserver une trace de vos HIS et les inclure dans le calcul du TS",
+    "• Ajout de la PPV complémentaire au Calendrier de la paie",
+    "• Ajout du formulaire “Décompte de stage” dans le Portail Pro",
+    "• Correction de bugs et améliorations diverses\n",
     "v2.1",
     "• Nouvel onglet : Temps de trajet",
     "• Possibilité de sauvegarder et restaurer les données et réglages",
