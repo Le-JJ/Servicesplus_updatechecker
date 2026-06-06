@@ -1,7 +1,16 @@
 {
-  "version": "2.2.0",
-  "url": "https://d.apkpure.com/b/APK/com.example.calcults_tcretard?version=latest",
+  "version": "2.3.0",
+  "url": "https://d.apkpure.com/b/APK/com.example.calcults_tcretard?versionCode=7",
   "changelog": [
+    "v2.3",
+    "• Ajout d'un éditeur de repos personnalisé avec possibilité de l'enregistrer ou le partager (SEM / suggestion utilisateur)",
+    "• Il est désormais possible d'ouvrir directement un fichier *.spbackup (sauvegarde ou repos personnalisé)",
+    "• Lors d'une restauration, seules les données effectivement présentes dans le fichier sont sélectionnables",
+    "• Correction de bugs et améliorations diverses\n",
+    "N'hésitez pas à écrire un message dans l'onglet Contact en cas de bug ou pour toute suggestion.\n",
+    "Profitez bien de la dernière version de votre application préférée !",
+    "\n____________________\n",
+    "Historique des modifications :\n",
     "v2.2",
     "• Vous pouvez désormais conserver une trace de vos HIS et les inclure dans le calcul du TS",
     "• Ajout de la PPV complémentaire au Calendrier de la paie",
@@ -17,8 +26,6 @@
     "• Nouveaux documents dans le Portail Pro",
     "• Présence d'un indicateur lorsqu'un commentaire est ajouté dans le Calendrier des repos",
     "• Amélioration de l'affichage de certains textes (petits écrans et/ou police agrandie)",
-    "• L'appli prend moins de place sur votre téléphone\n",
-    "N'hésitez pas à écrire un message dans l'onglet Contact en cas de bug ou pour toute suggestion.\n",
-    "Profitez bien de la dernière version de votre application préférée !"
+    "• L'appli prend moins de place sur votre téléphone"
   ]
 }
