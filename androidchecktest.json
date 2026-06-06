@@ -5,7 +5,7 @@
     "v2.3",
     "• Ajout d'un éditeur de repos personnalisé avec possibilité de l'enregistrer ou le partager (SEM / suggestion utilisateur)",
     "• Il est désormais possible d'ouvrir directement un fichier *.spbackup (sauvegarde ou repos personnalisé)",
-    "• Lors d'une restauration, seules les données effectivement présentes dans le fichier sont sélectionnables",
+    "• Lors d'une restauration, seules les données effectivement présentes dans le fichier peuvent être sélectionnées",
     "• Correction de bugs et améliorations diverses\n",
     "N'hésitez pas à écrire un message dans l'onglet Contact en cas de bug ou pour toute suggestion.\n",
     "Profitez bien de la dernière version de votre application préférée !",
