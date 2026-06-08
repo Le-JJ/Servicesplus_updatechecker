@@ -1,6 +1,6 @@
 {
   "title": "Politique de Confidentialité de Services+",
-  "last_updated": "14 mai 2026",
+  "last_updated": "8 juin 2026",
   "content": "L’application Services+ (“nous”, “notre” ou “l’application”) a été développée pour vous aider notamment à calculer votre temps compensateur (TC). D’autres fonctionnalités y sont également disponibles et pourront être ajoutées, modifiées ou supprimées au fil du temps.
 Nous prenons votre vie privée très au sérieux. Cette politique de confidentialité explique quelles données sont utilisées, comment elles le sont, où elles sont stockées et, le cas échéant, avec quels services tiers elles interagissent.
 
@@ -43,7 +43,7 @@ C. Données liées aux sauvegardes et restaurations
 Si vous utilisez la fonction de sauvegarde/restauration, l’application peut créer un fichier de sauvegarde contenant notamment :
 	•	l’historique
 	•	les services enregistrés
-	•	le calendrier des repos (sélection du repos, commentaires saisis)
+	•	le calendrier des repos (sélection du repos, commentaires saisis, repos personnalisé)
 	•	les réglages
 	•	les trajets favoris
 	•	certaines métadonnées techniques nécessaires à la restauration, comme la version du format de sauvegarde, la date de création de la sauvegarde, la version de l’application, la catégorie sélectionnée, la ligne sélectionnée, le mode de thème et certaines bornes temporelles de l’historique
